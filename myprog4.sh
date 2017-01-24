@@ -1,4 +1,3 @@
-#Eren Ulas - 150114822
 #if the user input is a non-integer expression, then check is 1
 #if the user input is an integer, then check is 0
 #it stays in the while loop until user enters an integer value
