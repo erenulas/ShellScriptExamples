@@ -1,4 +1,3 @@
-#Eren Ulas - 150114822
 #choice keeps the user selected option
 choice=0
 #turn is to know that it's the initial state
