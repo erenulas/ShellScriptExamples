@@ -1,4 +1,3 @@
-#Eren Ulas - 150114822
 #counter keeps the number of rounds, and increases itself by 1
 #if the user enters a wrong password.
 counter=0
