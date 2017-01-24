@@ -1,4 +1,3 @@
-#Eren Ulas - 150114822
 echo "Enter a sequence of numbers followed by \"finish\" "
 read input
 #reads the entered numbers
