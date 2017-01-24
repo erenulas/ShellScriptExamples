@@ -31,3 +31,8 @@ and prints a square like the one below (which is the output when the input is 7)
 ## About myprog5.sh
 Reads the use input, and replaces 'NAME' in letter.txt with that input.
 
+## How to Use it?
+* Clone the repo.
+* Open terminal, and go to the directory that contains the repo.
+* Type chmod +x * to give these files execution permission.
+* Type ./myprog.sh
