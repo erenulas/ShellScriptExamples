@@ -1,4 +1,3 @@
-#Eren Ulas - 150114822
 #reads the user input
 echo "Enter the name of the recipient:"
 read recipient
