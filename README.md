@@ -1,5 +1,5 @@
 # Shell Script Examples
-Some shell script examples written on Fedora
+Some shell script examples written on [Fedora OS](https://getfedora.org).
 ## About myprog.sh
 It's the menu that contains all the examples. User must go through the password check which is essentially the example 'myprog1.sh'. 
 ## About myprog1.sh
